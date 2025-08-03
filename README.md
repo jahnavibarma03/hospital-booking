@@ -1,4 +1,4 @@
-NOTE : THE MAIN FRONTEND CODE IS IN `client2` folder
+# NOTE : THE MAIN FRONTEND CODE IS IN `client2` folder
 
 #  MediConnect - Doctor Appointment Booking App
 
