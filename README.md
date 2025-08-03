@@ -1,3 +1,5 @@
+NOTE : THE MAIN FRONTEND CODE IS IN `client2` folder
+
 #  MediConnect - Doctor Appointment Booking App
 
 MediConnect is a responsive doctor appointment booking application that allows users to:
