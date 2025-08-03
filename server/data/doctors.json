@@ -1,0 +1,402 @@
+[
+    {
+        "doctor_id": 1,
+        "doctor_name": "Kimberli Howson",
+        "specialty": "Orthopedics",
+        "image": "https://randomuser.me/api/portraits/women/1.jpg",
+        "availability": "Available",
+        "slots": "['2025-03-25 13:28', '2025-08-14 10:21', '2025-10-07 18:07', '2025-01-12 17:41']"
+    },
+    {
+        "doctor_id": 2,
+        "doctor_name": "Torey Aleshkov",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/men/2.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    },
+    {
+        "doctor_id": 3,
+        "doctor_name": "Donielle Slingsby",
+        "specialty": "Dermatology",
+        "image": "https://randomuser.me/api/portraits/men/3.jpg",
+        "availability": "On Leave",
+        "slots": "No bookings available"
+    },
+    {
+        "doctor_id": 4,
+        "doctor_name": "Halette Vallerine",
+        "specialty": "Orthopedics",
+        "image":  "https://randomuser.me/api/portraits/women/2.jpg",
+        "availability": "Almost fulled",
+        "slots": "['2025-03-30 14:14', '2025-08-16 10:38']"
+    },
+    {
+        "doctor_id": 5,
+        "doctor_name": "Read Dee",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/men/4.jpg",
+        "availability": "Available",
+        "slots": "['2025-09-09 08:02', '2025-02-15 19:55', '2025-12-01 12:30', '2025-04-07 10:43', '2025-05-13 09:16']"
+    },
+    {
+        "doctor_id": 6,
+        "doctor_name": "Paxton Polle",
+        "specialty": "Orthopedics",
+        "image": "https://randomuser.me/api/portraits/men/3.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    },
+    {
+        "doctor_id": 7,
+        "doctor_name": "Tye Walkinshaw",
+        "specialty": "Neurology",
+        "image": "https://randomuser.me/api/portraits/men/5.jpg",
+        "availability": "On Leave",
+        "slots": "No bookings available"
+    },
+    {
+        "doctor_id": 8,
+        "doctor_name": "Bordie Stirman",
+        "specialty": "Cardiology",
+        "image": "https://randomuser.me/api/portraits/men/6.jpg",
+        "availability": "Almost fulled",
+        "slots": "['2025-07-20 14:45']"
+    },
+    {
+        "doctor_id": 9,
+        "doctor_name": "Lizette Howitt",
+        "specialty": "Neurology",
+        "image": "https://randomuser.me/api/portraits/women/3.jpg",
+        "availability": "Available",
+        "slots": "['2025-06-19 15:48', '2025-03-31 11:57', '2025-11-12 13:22']"
+    },
+    {
+        "doctor_id": 10,
+        "doctor_name": "Fee Preskett",
+        "specialty": "Pediatrics",
+        "image":  "https://randomuser.me/api/portraits/women/4.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    },
+    {
+        "doctor_id": 11,
+        "doctor_name": "Neddie Kliche",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/men/7.jpg",
+        "availability": "On Leave",
+        "slots": "No bookings available"
+    },
+    {
+        "doctor_id": 12,
+        "doctor_name": "Xaviera Krolman",
+        "specialty": "Cardiology",
+        "image": "https://randomuser.me/api/portraits/women/5.jpg",
+        "availability": "Almost fulled",
+        "slots": "['2025-02-14 09:33', '2025-06-25 11:21']"
+    },
+    {
+        "doctor_id": 13,
+        "doctor_name": "Kele Rosenfarb",
+        "specialty": "Dermatology",
+        "image": "https://randomuser.me/api/portraits/women/6.jpg",
+        "availability": "Available",
+        "slots": "['2025-07-27 10:01', '2025-06-23 16:12', '2025-04-29 17:35', '2025-09-06 14:07', '2025-10-18 08:17']"
+    },
+    {
+        "doctor_id": 14,
+        "doctor_name": "Theda Barnwall",
+        "specialty": "Cardiology",
+        "image":  "https://randomuser.me/api/portraits/men/8.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    },
+    {
+        "doctor_id": 15,
+        "doctor_name": "Colas Chaman",
+        "specialty": "Dermatology",
+        "image": "https://randomuser.me/api/portraits/men/9.jpg",
+        "availability": "On Leave",
+        "slots": "No bookings available"
+    },
+    {
+        "doctor_id": 16,
+        "doctor_name": "Jayme Kinane",
+        "specialty": "Dermatology",
+        "image": "https://randomuser.me/api/portraits/women/7.jpg",
+        "availability": "Almost fulled",
+        "slots": "['2025-07-07 15:29']"
+    },
+    {
+        "doctor_id": 17,
+        "doctor_name": "Hadlee Lumb",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/women/8.jpg",
+        "availability": "Available",
+        "slots": "['2025-05-20 15:56', '2025-12-23 10:45', '2025-03-03 13:14', '2025-08-21 18:04', '2025-10-02 08:31', '2025-11-01 10:09']"
+    },
+    {
+        "doctor_id": 18,
+        "doctor_name": "Alric McConachie",
+        "specialty": "Cardiology",
+        "image": "https://randomuser.me/api/portraits/men/10.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    },
+    {
+        "doctor_id": 19,
+        "doctor_name": "Waverly Lowsely",
+        "specialty": "Neurology",
+        "image": "https://randomuser.me/api/portraits/women/9.jpg",
+        "availability": "On Leave",
+        "slots": "No bookings available"
+    },
+    {
+        "doctor_id": 20,
+        "doctor_name": "Dani Cable",
+        "specialty": "Neurology",
+        "image": "https://randomuser.me/api/portraits/men/11.jpg",
+        "availability": "Almost fulled",
+        "slots": "['2025-05-03 11:17', '2025-10-28 08:41']"
+    },
+    {
+        "doctor_id": 21,
+        "doctor_name": "Frederic Forestall",
+        "specialty": "Cardiology",
+        "image": "https://randomuser.me/api/portraits/men/12.jpg",
+        "availability": "Available",
+        "slots": "['2025-02-10 09:08', '2025-07-11 18:23', '2025-06-30 14:35', '2025-03-22 17:47']"
+    },
+    {
+        "doctor_id": 22,
+        "doctor_name": "Laney Keelin",
+        "specialty": "Orthopedics",
+        "image": "https://randomuser.me/api/portraits/women/10.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    },
+    {
+        "doctor_id": 23,
+        "doctor_name": "Nicola Frean",
+        "specialty": "Orthopedics",
+        "image": "https://randomuser.me/api/portraits/women/11.jpg",
+        "availability": "On Leave",
+        "slots": "No bookings available"
+    },
+    {
+        "doctor_id": 24,
+        "doctor_name": "Michal Klimes",
+        "specialty": "Dermatology",
+        "image": "https://randomuser.me/api/portraits/men/13.jpg",
+        "availability": "Almost fulled",
+        "slots": "['2025-12-06 13:20']"
+    },
+    {
+        "doctor_id": 25,
+        "doctor_name": "Frederich O'Mara",
+        "specialty": "Cardiology",
+        "image": "https://randomuser.me/api/portraits/men/14.jpg",
+        "availability": "Available",
+        "slots": "['2025-01-28 10:52', '2025-09-18 12:20', '2025-08-05 19:36']"
+    },
+    {
+        "doctor_id": 26,
+        "doctor_name": "Patricia Joannidi",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/women/12.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    },
+    {
+        "doctor_id": 27,
+        "doctor_name": "Kathie De Witt",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/women/13.jpg",
+        "availability": "On Leave",
+        "slots": "No bookings available"
+    },
+    {
+        "doctor_id": 28,
+        "doctor_name": "Law Gath",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/men/15.jpg",
+        "availability": "Almost fulled",
+        "slots": "['2025-09-14 16:16', '2025-04-21 10:45']"
+    },
+    {
+        "doctor_id": 29,
+        "doctor_name": "Merrily Camilio",
+        "specialty": "Orthopedics",
+        "image": "https://randomuser.me/api/portraits/women/14.jpg",
+        "availability": "Available",
+        "slots": "['2025-10-09 09:18', '2025-04-15 08:27', '2025-06-06 16:49', '2025-05-07 17:23']"
+    },
+    {
+        "doctor_id": 30,
+        "doctor_name": "Marlee Markovic",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/women/15.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    },
+    {
+        "doctor_id": 31,
+        "doctor_name": "Marla Ivanuschka",
+        "specialty": "Neurology",
+        "image": "https://randomuser.me/api/portraits/women/16.jpg",
+        "availability": "On Leave",
+        "slots": "No bookings available"
+    },
+    {
+        "doctor_id": 32,
+        "doctor_name": "Lexi Guard",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/women/17.jpg",
+        "availability": "Almost fulled",
+        "slots": "['2025-06-12 19:02']"
+    },
+    {
+        "doctor_id": 33,
+        "doctor_name": "Kenyon Questier",
+        "specialty": "Dermatology",
+        "image": "https://randomuser.me/api/portraits/men/16.jpg",
+        "availability": "Available",
+        "slots": "['2025-07-31 14:12', '2025-01-09 19:53', '2025-11-10 12:00', '2025-02-26 10:36']"
+    },
+    {
+        "doctor_id": 34,
+        "doctor_name": "Eldridge Fleischer",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/men/17.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    },
+    {
+        "doctor_id": 35,
+        "doctor_name": "Scarlett Chapelhow",
+        "specialty": "Orthopedics",
+        "image": "https://randomuser.me/api/portraits/men/18.jpg",
+        "availability": "On Leave",
+        "slots": "No bookings available"
+    },
+    {
+        "doctor_id": 36,
+        "doctor_name": "Dana Griffin",
+        "specialty": "Dermatology",
+        "image": "https://randomuser.me/api/portraits/women/18.jpg",
+        "availability": "Almost fulled",
+        "slots": "['2025-01-25 12:22', '2025-03-18 18:00']"
+    },
+    {
+        "doctor_id": 37,
+        "doctor_name": "Zonnya Michell",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/women/19.jpg",
+        "availability": "Available",
+        "slots": "['2025-12-04 10:02', '2025-06-01 17:39', '2025-07-05 11:16', '2025-04-20 15:51', '2025-08-13 08:00']"
+    },
+    {
+        "doctor_id": 38,
+        "doctor_name": "Penni Stamper",
+        "specialty": "Cardiology",
+        "image": "https://randomuser.me/api/portraits/women/20.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    },
+    {
+        "doctor_id": 39,
+        "doctor_name": "Agretha Ivashov",
+        "specialty": "Dermatology",
+        "image": "https://randomuser.me/api/portraits/women/21.jpg",
+        "availability": "On Leave",
+        "slots": "No bookings available"
+    },
+    {
+        "doctor_id": 40,
+        "doctor_name": "Lucienne Petken",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/women/22.jpg",
+        "availability": "Almost fulled",
+        "slots": "['2025-10-10 17:38']"
+    },
+    {
+        "doctor_id": 41,
+        "doctor_name": "Ettie Britch",
+        "specialty": "Neurology",
+        "image": "https://randomuser.me/api/portraits/men/19.jpg",
+        "availability": "Available",
+        "slots": "['2025-10-26 18:45', '2025-03-12 10:13', '2025-09-29 16:10', '2025-02-06 11:57']"
+    },
+    {
+        "doctor_id": 42,
+        "doctor_name": "Lanae Vegas",
+        "specialty": "Neurology",
+        "image": "https://randomuser.me/api/portraits/women/23.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    },
+    {
+        "doctor_id": 43,
+        "doctor_name": "Bendix O'Doogan",
+        "specialty": "Orthopedics",
+        "image": "https://randomuser.me/api/portraits/men/20.jpg",
+        "availability": "On Leave",
+        "slots": "No bookings available"
+    },
+    {
+        "doctor_id": 44,
+        "doctor_name": "Alix Lewton",
+        "specialty": "Pediatrics",
+        "image": "https://randomuser.me/api/portraits/men/21.jpg",
+        "availability": "Almost fulled",
+        "slots": "['2025-11-19 08:56', '2025-08-29 13:49']"
+    },
+    {
+        "doctor_id": 45,
+        "doctor_name": "Manfred Colville",
+        "specialty": "Orthopedics",
+        "image": "https://randomuser.me/api/portraits/men/22.jpg",
+        "availability": "Available",
+        "slots": "['2025-05-28 12:40', '2025-08-09 14:14', '2025-06-18 19:21', '2025-01-18 09:59', '2025-04-12 16:06', '2025-11-19 13:39']"
+    },
+    {
+        "doctor_id": 46,
+        "doctor_name": "Staford Esterbrook",
+        "specialty": "Orthopedics",
+        "image": "https://randomuser.me/api/portraits/men/23.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    },
+    {
+        "doctor_id": 47,
+        "doctor_name": "Delmore Biaggetti",
+        "specialty": "Orthopedics",
+        "image": "https://randomuser.me/api/portraits/men/24.jpg",
+        "availability": "On Leave",
+        "slots": "No bookings available"
+    },
+    {
+        "doctor_id": 48,
+        "doctor_name": "Lishe Trouncer",
+        "specialty": "Cardiology",
+        "image": "https://randomuser.me/api/portraits/women/24.jpg",
+        "availability": "Almost fulled",
+        "slots": "['2025-04-03 15:07']"
+    },
+    {
+        "doctor_id": 49,
+        "doctor_name": "Rodina Riddick",
+        "specialty": "Neurology",
+        "image": "https://randomuser.me/api/portraits/men/25.jpg",
+        "availability": "Available",
+        "slots": "['2025-02-22 08:32', '2025-07-02 10:03', '2025-12-16 18:18', '2025-03-17 14:47', '2025-09-23 17:14', '2025-05-01 11:29', '2025-10-30 12:53']"
+    },
+    {
+        "doctor_id": 50,
+        "doctor_name": "Seka Ropert",
+        "specialty": "Orthopedics",
+        "image": "https://randomuser.me/api/portraits/women/25.jpg",
+        "availability": "Fully Booked",
+        "slots": "Slots are fully booked"
+    }
+]
